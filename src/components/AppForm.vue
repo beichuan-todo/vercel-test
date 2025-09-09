@@ -415,9 +415,11 @@ const handleSave = async () => {
 }
 
 .login-btn {
-  border-radius: 20px;
-  padding: 8px 20px;
-  font-weight: 500;
+  border-radius: 25px;
+  padding: 12px 28px;
+  font-weight: 600;
+  font-size: 14px;
+  height: 44px;
   box-shadow: 0 4px 15px rgba(64, 158, 255, 0.3);
   transition: all 0.3s ease;
 }
