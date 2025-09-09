@@ -15,9 +15,9 @@
         </div>
       </div>
       <div class="header-right">
-        <el-button type="primary" size="small" class="login-btn">
-          <el-icon><User /></el-icon>
-          请先登录账号
+        <el-button type="primary" size="default" class="login-btn">
+          <el-icon><Monitor /></el-icon>
+          进入前台页面
         </el-button>
         <div class="user-info">
           <el-avatar size="small" src="https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png" />
